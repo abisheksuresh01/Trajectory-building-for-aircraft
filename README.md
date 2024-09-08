@@ -1,6 +1,6 @@
 # Aircraft Trajectory Simulation and Visualization
 
-This repository contains code files developed during my internship at Defence Research and Development Laboratory (DRDL), Hyderabad. The codes simulate and visualize the trajectory of an aircraft using Earth-Centered, Earth-Fixed (ECEF) coordinates and provide both 2D and 3D visualizations of the flight path.
+The codes simulate and visualize the trajectory of an aircraft using Earth-Centered, Earth-Fixed (ECEF) coordinates and provide both 2D and 3D visualizations of the flight path.
 
 ## Files Description
 
